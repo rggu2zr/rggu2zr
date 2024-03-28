@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=rggu2zr
+![](https://komarev.com/ghpvc/?username=rggu2zr)
 
 ### Hi there 👋
 
@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-⚡ CVE list: 
+⚡ CVE list:
+
 CVE-2022-44645、CVE-2023-41047
