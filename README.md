@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=rggu2zr)
-
 ### Hi there 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rggu2zr)](https://github.com/anuraghazra/github-readme-stats)
@@ -44,3 +42,4 @@ Here are some ideas to get you started:
      ZH-CN: https://mp.weixin.qq.com/s/GHztc0SAD9W3mASdbkPTmA
 
   
+![](https://komarev.com/ghpvc/?username=rggu2zr)
