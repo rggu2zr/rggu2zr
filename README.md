@@ -21,9 +21,7 @@ Here are some ideas to get you started:
 
 - CVE list:
   
-  [CVE-2022-44645](https://lists.apache.org/thread/zlcfmvt65blqc4n6fxypg6f0ns8fqfz4)
-  
-  [CVE-2023-41047](https://github.com/advisories/GHSA-fwfg-vprh-97ph)
+  [CVE-2022-44645](https://lists.apache.org/thread/zlcfmvt65blqc4n6fxypg6f0ns8fqfz4)、[CVE-2023-41047](https://github.com/advisories/GHSA-fwfg-vprh-97ph)
 
   ...
 
