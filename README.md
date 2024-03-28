@@ -21,8 +21,6 @@ Here are some ideas to get you started:
   
   [CVE-2022-44645](https://lists.apache.org/thread/zlcfmvt65blqc4n6fxypg6f0ns8fqfz4)、[CVE-2023-41047](https://github.com/advisories/GHSA-fwfg-vprh-97ph)
 
-  ...
-
 - Analysis
   1. CVE-2022–42889：Text4Shell Vulnerability Technical Analysis
      
@@ -42,6 +40,4 @@ Here are some ideas to get you started:
 
      ZH-CN: https://mp.weixin.qq.com/s/GHztc0SAD9W3mASdbkPTmA
 
-  ...
-
-     
+  
