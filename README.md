@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - Analysis
   1. CVE-2022–42889：Text4Shell Vulnerability Technical Analysis
      
-     EN-US: https://medium.com/@numencyberlabs/cve-2022-36537-vulnerability-technical-analysis-with-exp-667401766746
+     EN-US: https://medium.com/@numencyberlabs/text4shell-or-act4shell-vulnerability-analysis-a860d141e3e5
      
      ZH-CN: https://mp.weixin.qq.com/s/eYfu1p9D_d_5yPwqp2yJgA
      
