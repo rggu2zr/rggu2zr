@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
      ZH-CN: https://mp.weixin.qq.com/s/GHztc0SAD9W3mASdbkPTmA
 
-  6. CVE-2022-44645:
+  6. CVE-2022-44645: Apache Linkis contains Deserialization of Untrusted Data
  
      ZH-CN: https://mp.weixin.qq.com/s/rrC_CkSvEOsb8Xib21co0A
 
