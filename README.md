@@ -25,15 +25,13 @@ Here are some ideas to get you started:
 
 - Analysis
   1. CVE-2022–42889：Text4Shell Vulnerability Technical Analysis
-     
      EN-US: https://medium.com/@numencyberlabs/text4shell-or-act4shell-vulnerability-analysis-a860d141e3e5
-     
      ZH-CN: https://mp.weixin.qq.com/s/eYfu1p9D_d_5yPwqp2yJgA
      
   2. CVE-2022–36537 ZK Framework Vulnerability Technical Analysis with Exploit
      
      EN-US: https://medium.com/@numencyberlabs/cve-2022-36537-vulnerability-technical-analysis-with-exp-667401766746
-     
+  
      ZH-CN: https://mp.weixin.qq.com/s/Y2e0sHzmRZPKTZPFubntYg
      
   3. CVE-2023-41047: OctoPrint Remote Code Execution Vulnerability
@@ -44,6 +42,6 @@ Here are some ideas to get you started:
 
   4. CVE-2022-44645:
  
-     https://mp.weixin.qq.com/s/rrC_CkSvEOsb8Xib21co0A
+     ZH-CN: https://mp.weixin.qq.com/s/rrC_CkSvEOsb8Xib21co0A
 
   
