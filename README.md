@@ -30,7 +30,7 @@ Here are some ideas to get you started:
      
      ZH-CN: https://mp.weixin.qq.com/s/eYfu1p9D_d_5yPwqp2yJgA
      
-  2. CVE-2022–36537 Vulnerability Technical Analysis with Exploit
+  2. CVE-2022–36537 ZK Framework Vulnerability Technical Analysis with Exploit
      
      EN-US: https://medium.com/@numencyberlabs/cve-2022-36537-vulnerability-technical-analysis-with-exp-667401766746
      
@@ -41,5 +41,9 @@ Here are some ideas to get you started:
      EN-US: https://medium.com/@numencyberlabs/octoprint-remote-code-execution-vulnerability-7e36372d6c2b
 
      ZH-CN: https://mp.weixin.qq.com/s/GHztc0SAD9W3mASdbkPTmA
+
+  4. CVE-2022-44645:
+ 
+     https://mp.weixin.qq.com/s/rrC_CkSvEOsb8Xib21co0A
 
   
